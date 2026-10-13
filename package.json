@@ -1,0 +1,13 @@
+{
+  "name": "ts-form-validators",
+  "version": "1.0.0",
+  "description": "Form validators library with ISP and LSP",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
